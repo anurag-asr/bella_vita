@@ -18,7 +18,7 @@ this company deals in organic skin natural prducts
 - Responsiveness
 
 ## Glimpse and screenshots of our website:
-![Screenshot_226](https://github.com/anurag-asr/Rodan-field/blob/main/Screenshot%20(42).png)
+![Screenshot_71](https://github.com/anurag-asr/bella_vita/blob/master/Screenshot%20(71).png)
 
 
  
